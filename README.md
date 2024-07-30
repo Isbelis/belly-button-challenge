@@ -1,9 +1,9 @@
-# belly-button-challenge
+# Belly Button Challenge
 In this challenge, I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs) were present in more than 70% of people, while the rest were relatively rare.
 
 I completed the following steps:
 
-1. Used the D3 library to read in samples.json from the URL: https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
+1. Used the D3 library to read in `samples.json` from the URL: https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
    
 2. Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in each individual.
    - Used `sample_values` as the values for the bar chart.
@@ -17,14 +17,15 @@ I completed the following steps:
    - Used `otu_ids` for the marker colors.
    - Used `otu_labels` for the text values.
      
-4. Displayed the sample's metadata, i.e., an individual's demographic information.
+4. Displayed the `sample's metadata`, i.e., an individual's demographic information.
    - Looped through each key-value pair from the metadata JSON object and created a text string.
-   - Appended an HTML tag with that text to the #sample-metadata panel.
+   - Appended an HTML tag with that text to the `#sample-metadata` panel.
      
-5. Updated all the plots when a new sample is selected. I was welcome to create any layout I liked for my dashboard. An example dashboard is shownon the following my own page:
-   https://isbelis.github.io/belly-button-challenge
+5. Updated all the plots when a new sample was selected. I was welcome to create any layout I liked for my dashboard. An example dashboard is shown on my own page:
+https://isbelis.github.io/belly-button-challenge
 
-7. Deployed the app to a free static page hosting service, such as GitHub Pages. Submitted the links to the deployment and the GitHub repository. Ensured that the repository has regular commits and a thorough README.md file.
+
+6. Deployed the app to a free static page hosting service, such as GitHub Pages. Submitted the links to the deployment and the GitHub repository. Ensured that the repository has regular commits and a thorough README.md file.
    
 ## Hints:
    - Used `console.log` inside the JavaScript code to see what the data looks like at each step.
