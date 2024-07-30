@@ -21,15 +21,16 @@ I completed the following steps:
    - Looped through each key-value pair from the metadata JSON object and created a text string.
    - Appended an HTML tag with that text to the `#sample-metadata` panel.
      
-5. Updated all the plots when a new sample was selected. I was welcome to create any layout I liked for my dashboard. An example dashboard is shown on my own page:
-https://isbelis.github.io/belly-button-challenge
+5. Updated all the plots when a new sample was selected. I was welcome to create any layout I liked for my dashboard. 
 
-
-6. Deployed the app to a free static page hosting service, such as GitHub Pages. Submitted the links to the deployment and the GitHub repository. Ensured that the repository has regular commits and a thorough README.md file.
-   
+6. Deployed the app to a free static page hosting service; I used GitHub Pages. Submitted the links to the deployment and the GitHub repository. Ensured that the repository has regular commits and a thorough README.md file.
 ## Hints:
    - Used `console.log` inside the JavaScript code to see what the data looks like at each step.
    - Referred to the Plotly.js documentation when building the plots.
+
+# Free static page (GitHub Pages): 
+https://isbelis.github.io/belly-button-challenge
+
   
 ## References:
 Hulcr, J. et al. (2012). A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
