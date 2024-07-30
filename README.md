@@ -21,7 +21,7 @@ I completed the following steps:
    - Looped through each key-value pair from the metadata JSON object and created a text string.
    - Appended an HTML tag with that text to the #sample-metadata panel.
      
-5. Updated all the plots when a new sample is selected. You are welcome to create any layout you like for your dashboard. An example dashboard is shown on the following page:
+5. Updated all the plots when a new sample is selected. I was welcome to create any layout I liked for my dashboard. An example dashboard is shownon the following my own page:
    `https://isbelis.github.io/belly-button-challenge`
 
 7. Deployed the app to a free static page hosting service, such as GitHub Pages. Submitted the links to the deployment and the GitHub repository. Ensured that the repository has regular commits and a thorough README.md file.
