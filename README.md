@@ -23,7 +23,7 @@ I completed the following steps:
 6. Deployed the app to a free static page hosting service, such as GitHub Pages. Submitted the links to the deployment and the GitHub repository. Ensured that the repository has regular commits and a thorough README.md file.
    
 ## Hints:
-   - Used console.log inside the JavaScript code to see what the data looks like at each step.
+   - Used `console.log` inside the JavaScript code to see what the data looks like at each step.
    - Referred to the Plotly.js documentation when building the plots.
   
 ## References:
